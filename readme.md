@@ -2,7 +2,10 @@
 
 This repository contains the SQL scripts to create and manage a database for a movie application. The database structure is designed to handle user profiles, movies, genres, characters, and related entities.
 
+
+
 ## ER Diagram
+
 
 ```mermaid
 erDiagram
@@ -96,3 +99,10 @@ erDiagram
     Person ||--o{ Movie : DirectorID
     Person ||--o{ PersonPhoto : PersonID
     File ||--o{ PersonPhoto : FileID
+
+```
+
+### ER Image SVG
+
+![ER Diagram](assets/images/er_diagram.svg)
+
