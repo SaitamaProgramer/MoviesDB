@@ -102,7 +102,3 @@ erDiagram
 
 ```
 
-### ER Image SVG
-
-![ER Diagram](./er_diagram.svg)
-
