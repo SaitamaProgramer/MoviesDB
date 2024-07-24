@@ -104,5 +104,5 @@ erDiagram
 
 ### ER Image SVG
 
-![ER Diagram](assets/images/er_diagram.svg)
+![ER Diagram](./er_diagram.svg)
 
